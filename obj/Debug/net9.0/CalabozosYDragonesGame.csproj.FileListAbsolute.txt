@@ -1,0 +1,14 @@
+C:\Users\LUCAS\CalabozosYDragonesGame\bin\Debug\net9.0\CalabozosYDragonesGame.exe
+C:\Users\LUCAS\CalabozosYDragonesGame\bin\Debug\net9.0\CalabozosYDragonesGame.deps.json
+C:\Users\LUCAS\CalabozosYDragonesGame\bin\Debug\net9.0\CalabozosYDragonesGame.runtimeconfig.json
+C:\Users\LUCAS\CalabozosYDragonesGame\bin\Debug\net9.0\CalabozosYDragonesGame.dll
+C:\Users\LUCAS\CalabozosYDragonesGame\bin\Debug\net9.0\CalabozosYDragonesGame.pdb
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.AssemblyInfoInputs.cache
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.AssemblyInfo.cs
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.dll
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\refint\CalabozosYDragonesGame.dll
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.pdb
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\CalabozosYDragonesGame.genruntimeconfig.cache
+C:\Users\LUCAS\CalabozosYDragonesGame\obj\Debug\net9.0\ref\CalabozosYDragonesGame.dll
